@@ -2,7 +2,6 @@
 This is one of my data analytic class assignment, 
 
 Attempting to explain and answering the followingQuestions:
-
     1.	Compare and contrast tableau and Power Bi
     2.	Distinguish between excel and Power BI
     3.	State and explain types of Databases
