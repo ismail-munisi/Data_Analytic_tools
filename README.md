@@ -1,4 +1,4 @@
-# Data Analytic tools
+# Data Analytics tools
     This is one of my data analytic class assignment, 
     Attempting to explain and answering the following Questions:
     1.	Compare and contrast tableau and Power Bi
